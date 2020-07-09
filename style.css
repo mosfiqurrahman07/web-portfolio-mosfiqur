@@ -57,6 +57,7 @@ section{
     border-radius: 5px;
     height: 70%;
     background-color: white;
+    padding: 20px;
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
